@@ -1,5 +1,5 @@
 # matrix tests
-This is a short program that contains tests for whether a given matrix possesses certain properties.
+This is a short program that contains tests whether a given matrix has the following properties:
 
 ## [Unitary](https://en.wikipedia.org/wiki/Unitary_matrix)
 A matrix $U$ is _unitary_ if $UU^{\dagger}=U^{\dagger}U=I$, where $U^\dagger$ is the hermitian conjugate and $I$ is the identity matrix.
