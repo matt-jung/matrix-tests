@@ -1,4 +1,5 @@
-# unitary-test
-A given matrix $U$  is [unitary](https://en.wikipedia.org/wiki/Unitary_matrix) if the product of $U$ and its hermitian conjugate $U^\dagger$ is the identity matrix ${1\kern-0.25em\text{l}}$.
+# matrix tests
+This is a short program that contains tests for whether a given matrix possesses certain properties.
 
-This short program tests whether a given matrix (inputed as a nested array in Python) is unitary.
+# [Unitary Matrices](https://en.wikipedia.org/wiki/Unitary_matrix)
+A matrix $U$ is unitary if $UU^\dagger=U^\daggerU=I$, where $U^\dagger$ is the hermitian conjugate and $I$ is the identity matrix.
